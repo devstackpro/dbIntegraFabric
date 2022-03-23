@@ -1,2 +1,2 @@
-# dbIntegraFabric
-Base de dados - Integra Fabric
+# dbIntegraTextil
+Base de dados - Integra Textil
