@@ -100,4 +100,4 @@ VALUES (
     TotalRatePP
     );
 
-END $$
+END;
